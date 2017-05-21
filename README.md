@@ -10,7 +10,7 @@
 ![](http://oo94hcyew.bkt.clouddn.com/tesaer.gif)
 
 
-![](http://oo94hcyew.bkt.clouddn.com/tvanimator.gif)
+![](http://oo94hcyew.bkt.clouddn.com/teswertyur.gif)
 
 
 ## 后期会公开实现效果以及Recyclerview的进阶用法和Leanback的使用
